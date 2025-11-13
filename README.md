@@ -1,13 +1,5 @@
 ### study-of-basic-gates
-[text](db)
-[text](incremental_db)
-[text](output_files)
-[text](simulation)
-[text](c5_pin_model_dump.txt)
-[text](Gate_1.qpf)
-[text](Gate_1.qsf)
-[text](Gate_1.qws)
-[text](Gate_1.v)
+
 
 
 **AIM:** 
